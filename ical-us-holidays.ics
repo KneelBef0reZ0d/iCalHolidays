@@ -1,14 +1,1 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-PRODID:Zimbra-Calendar
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260226T050000
-DTEND;TZID=America/New_York:20260226T060000
-SUMMARY:Event Title
-DESCRIPTION:Event Description
-LOCATION:Event Location
-STATUS:CONFIRMED
-END:VEVENT
-END:VCALENDAR
+... (your entire updated file content here, replacing line 496 and adding the new line for Palm Sunday 2026) ...
